@@ -44,6 +44,4 @@ int main()
     {
         cout<<"Oops! not found"<<endl;
     }
-    cout<<endl;
-    
 }
