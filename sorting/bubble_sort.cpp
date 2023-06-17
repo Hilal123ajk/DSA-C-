@@ -1,11 +1,6 @@
 #include<iostream>
 using namespace std;
 
-void swap()
-{
-    cout<<"swapping";
-}
-
 int main()
 {
     int arr[5] = {54,22,6,85,34};
@@ -23,7 +18,7 @@ int main()
         }
     }
 
-cout<<endl;
+    cout<<endl;
     for(int i=0; i<5; i++)
     {
         cout<<arr[i] << ",";
